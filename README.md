@@ -3,7 +3,7 @@
 Dataset url:
 https://www.kaggle.com/datasets/shivamb/netflix-shows
 
-*For mobile users*:
+*To use the Table of Contetns in the Notebook please use this link. Also, for mobile users*: <br>
 https://nbviewer.org/github/Eniark/Netflix-EDA/blob/master/Netflix%20EDA.ipynb
 
 
