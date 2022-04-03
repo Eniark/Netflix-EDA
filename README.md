@@ -40,7 +40,7 @@ In 2019 over 2000 TV-Shows were added to Netflix.
 
 
 - **In what month were the most and least shows added in 2019? Is it a pattern for other years?** <br>
-In both 2020 and 2018 we se a peak in December. But in 2019, when most shows were added we don't observe that peak. Instead the peak is in November. So, it's **not** a pattern.
+In both 2020 and 2018 we see a peak in December. But in 2019, when most shows were added we don't observe that peak. Instead the peak is in November. So, it's **not** a pattern.
 
 
 - **What is the relationship between duration and show type?** <br>
